@@ -30,6 +30,6 @@ Daniel Vainsencher and Ronen Abravanel
 
 Hackathon project ideas
 ----------
-Frequency based autocompletion (Lior Ella proposed, DanielV wants too!)
-Better LaTeX error presentation (Ronen and DanielV)
-Import unknown LaTeX environments as corresponding LyX layouts (DanielV)
+- Frequency based autocompletion (Lior Ella proposed, DanielV wants too!)
+- Better LaTeX error presentation (Ronen and DanielV)
+- Import unknown LaTeX environments as corresponding LyX layouts (DanielV)
